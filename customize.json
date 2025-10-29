@@ -1,0 +1,31 @@
+{
+  "greeting": "嘿，亲爱的朋友",
+  "name": "大芳",
+  "greetingText": "很高兴能认识你这么优秀的朋友",
+  "wishText": "愿你的新一岁充满惊喜与美好，愿快乐常伴你左右！",
+  "imagePath": "img/lydia2.png",
+  "text1": "今天是个特别的日子～你的生日!!! :D",
+  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
+  "sendButtonLabel": "发送祝福",
+  "text2": "我想为你创造一份特别的回忆",
+  "text3": "我认真的想了很久",
+  "text4": "我希望能做一件",
+  "text4Adjective": "温暖的小事",
+  "text5Entry": "因为，",
+  "text5Content": "你对于我来说，你是一个值得珍惜的朋友",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐啊!",
+  "outroText": "我希望你喜欢这个小小的惊喜!",
+  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
